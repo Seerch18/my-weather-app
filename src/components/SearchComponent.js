@@ -22,7 +22,7 @@ const SearchComponent = () => {
 					<BsSearch></BsSearch>
 					<input
 						type={'text'}
-						placeholder='Search'
+						placeholder='Search City Temperature'
 						name='city'
 						value={cityInput}
 						onChange={(ev) => {
